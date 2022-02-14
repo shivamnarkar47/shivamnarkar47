@@ -17,4 +17,4 @@ I'm a front-end Developer from Mumbai, India. Having fun in my journey ! Pursuin
 
 
 ## ✨ Skills
-<img src="https://progressbadges.herokuapp.com/79" width="100%" />
+## Next JS : <img src="https://progressbadges.herokuapp.com/50" width="100%" />
