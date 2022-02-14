@@ -17,4 +17,13 @@ I'm a front-end Developer from Mumbai, India. Having fun in my journey ! Pursuin
 
 
 ## ✨ Skills
-## Next JS : <img src="https://progressbadges.herokuapp.com/50" width="100%" />
+#### Next JS : <img src="https://progressbadges.herokuapp.com/50" width="100%" />
+#### Tailwind CSS :  <img src="https://progressbadges.herokuapp.com/37" width="100%" />
+#### C++ :  <img src="https://progressbadges.herokuapp.com/75" width="100%" />
+
+
+##  ⏰ Goals
+- Start contributing Open Source 🔓
+- Get your first Internship 👔
+- Start organizing your daily routine 📅
+- Just commit it ! 🔥
