@@ -15,14 +15,9 @@ Myself **Shivam Narkar**  . A Student 🧑‍🎓 , Front-End Dev 🌐 and Emerg
 ## 🚀 About Me
 I'm a front-end Developer from Mumbai, India. Having fun in my journey ! Pursuing Diploma from Vidyalankar Polytechnic, Mumbai. Love to read books and researching. My confidence is my curosity. I Love to find a sparkle of joy in this hectic world ✨. Started my Competitve Programming career in 2021. Now maintaining my pace being a 2-star competitor.
 
-![codechef](https://user-images.githubusercontent.com/67094628/153906057-645b5ead-962f-446f-af1e-69d733794207.png)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649a9fccd99c9d6731998e26?variant=dark)](https://roadmap.sh)
 
 
-
-## ✨ Skills
-#### Next JS : <img src="https://progressbadges.herokuapp.com/50" width="100%" />
-#### Tailwind CSS :  <img src="https://progressbadges.herokuapp.com/37" width="100%" />
-#### C++ :  <img src="https://progressbadges.herokuapp.com/75" width="100%" />
 
 
 ##  ⏰ Goals
