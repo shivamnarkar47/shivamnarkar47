@@ -22,7 +22,7 @@ I'm a front-end Developer from Mumbai, India. Have fun on my journey! Pursuing *
 
 ##  ⏰ Goals
 - Start contributing Open Source 🔓
-- Get your first Internship 👔
+- ~~Get your first Internship 👔~~
 - Start organizing your daily routine 📅
 - Just commit it ! 🔥
 
