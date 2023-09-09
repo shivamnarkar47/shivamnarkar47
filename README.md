@@ -13,7 +13,7 @@ Myself **Shivam Narkar**. A Student 🧑‍🎓 , Front-End Dev 🌐 and Emergin
 
 
 ## 🚀 About Me
-I'm a front-end Developer from Mumbai, India. Have fun on my journey! Pursuing ** B.E. at Atharv College of Engineering, Malad** and completed my Diploma from Vidyalankar Polytechnic, Mumbai. Love to read books and research. **My confidence is my curosity**. I Love to find a sparkle of joy in this hectic world ✨. Started my Competitive Programming career in 2021. Now maintaining my pace being a 2-star competitor.
+I'm a front-end Developer from Mumbai, India. Have fun on my journey! Pursuing **B.E. at Atharv College of Engineering, Malad** and completed my Diploma from Vidyalankar Polytechnic, Mumbai. Love to read books and research. **My confidence is my curosity**. I Love to find a sparkle of joy in this hectic world ✨. Started my Competitive Programming career in 2021. Now maintaining my pace being a 2-star competitor.
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649a9fccd99c9d6731998e26?variant=dark)](https://roadmap.sh)
 
