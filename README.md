@@ -23,7 +23,5 @@ I'm a front-end Developer from Mumbai, India. Have fun on my journey! Pursuing *
 ##  ⏰ Goals
 - Start contributing Open Source 🔓
 - ~~Get your first Internship 👔~~
-- Start organizing your daily routine 📅
-- Just commit it ! 🔥
+- Win hackathon
 
-<a href="https://app.daily.dev/shivamnarkar47"><img src="https://api.daily.dev/devcards/5044cd13d0394b9098894ec17fe21f73.png?r=3nh" width="400" alt="Shivam Narkar's Dev Card"/></a>
