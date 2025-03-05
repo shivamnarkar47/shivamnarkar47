@@ -9,7 +9,7 @@ Myself **Shivam Narkar**. A Student 🧑‍🎓 , Front-End Dev 🌐 and Emergin
 
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamnarkar47&show_icons=true&theme=dark)](https://coderdot.blogspot.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivamnarkar47&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE2c3B2amVicDkwemZzbmdpNWFtNWtxNzZraGZ6bmZpbGZsZ3dqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ruZVTCF9l16xn9xfs3/giphy.gif"/>
 
 
 ## 🚀 About Me
