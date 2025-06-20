@@ -1,27 +1,52 @@
 
-# Hey there ! 👋
-
-Myself **Shivam Narkar**. A Student 🧑‍🎓 , Front-End Dev 🌐 and Emerging Competitive Programmer 💻
+![GrKLE8WXIAAQcVu](https://github.com/user-attachments/assets/3dc8b9e9-2a3b-4336-8cbe-3fa9d3a3cfa4)
 
 
 
 
+---
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamnarkar47&show_icons=true&theme=dark)](https://coderdot.blogspot.com)
+### **Hi there 👋 I'm Shivam Narkar**  
+**📍 Mumbai, India | 💻 Full-Stack Developer | 🚀 Open-Source Enthusiast**  
 
-# How good I am?
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJwb2xocmlmbTJpaTVodjBlaDk0aTE2OHJ5bWg4MWZoZ2oxbHNrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/elPiadNl05XWg/giphy.gif"/>
+```go
+fmt.Println("Building scalable systems with a side of bad puns") 
+```
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamnarkar47&show_icons=true&theme=dark)](https://shivamnarkar16.vercel.app/)
 
-
-## 🚀 About Me
-I'm a front-end Developer from Mumbai, India. Have fun on my journey! Pursuing **B.E.** at **Atharv College of Engineering, Malad** and completed my **Diploma** from **Vidyalankar Polytechnic**, Mumbai. Love to read books and research. **My confidence is my curosity**. I Love to find a sparkle of joy in this hectic world ✨.
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnarkar47&theme=dark)](https://github.com/shivamnarkar47/github-readme-stats)
 
 
-##  ⏰ Goals
-- Start contributing Open Source 🔓
-- ~~Get your first Internship 👔~~
-- Win hackathon
+#### **🛠️ Tech Stack**  
+**Languages:** Go, Python, Java, TypeScript, SQL  
+**Frontend:** React (TS), TanStack Query, TailwindCSS  
+**Backend:** Django, FastAPI, Spring Boot, Fiber  
+**DevOps:** Docker, GCP, AWS, Linux  
+**Data:** Pandas, NumPy, Redis  
 
+#### **🔥 Highlight Projects**  
+- **[MiniURL](https://github.com/shivamnarkar47/MiniURL-shortener)** – High-performance URL shortener using Golang concurrency + React TS (<1ms Redis response)  
+- **[Chihuahua Investments](https://github.com/shivamnarkar47/CodeCrafters)** – AI-driven stock/crypto platform (Hackathon 1st Runner-Up)  
+- **[DineSmart](https://dinesmart-final.vercel.app)** – Restaurant management system with Supabase real-time DB  
+
+#### **💼 Experience**  
+- **SDE Intern** @ Cybercraft: Built WebRTC meeting apps & Puppeteer automation bots  
+- **UI/UX Intern** @ Sonawane Tech: Designed crypto/fashion e-commerce interfaces  
+- **Hackathons:** Special mention at Technothon for "Most Assiduous Team" (InnovateX)  
+
+#### **📚 Currently Learning**  
+- Advanced distributed systems  
+- Web3/Blockchain development  
+- Performance optimization tricks  
+
+#### **🌱 Fun Facts**  
+- Will debate `vim` vs. VSCode (but secretly use both)  
+- 100% caffeine-powered  
+
+---
+
+**Let’s connect!**  
+
+[![Email](https://img.shields.io/badge/Email-shivammarkar16@gmail.com-red?style=flat&logo=gmail)](mailto:shivammarkar16@gmail.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-shivammarkar16.vercel.app-blue?style=flat&logo=vercel)](https://shivammarkar16.vercel.app)  
+
+---
