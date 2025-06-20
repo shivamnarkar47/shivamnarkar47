@@ -10,7 +10,7 @@ Myself **Shivam Narkar**. A Student 🧑‍🎓 , Front-End Dev 🌐 and Emergin
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamnarkar47&show_icons=true&theme=dark)](https://coderdot.blogspot.com)
 
 # How good I am?
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE2c3B2amVicDkwemZzbmdpNWFtNWtxNzZraGZ6bmZpbGZsZ3dqYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ruZVTCF9l16xn9xfs3/giphy.gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJwb2xocmlmbTJpaTVodjBlaDk0aTE2OHJ5bWg4MWZoZ2oxbHNrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/elPiadNl05XWg/giphy.gif"/>
 
 
 ## 🚀 About Me
