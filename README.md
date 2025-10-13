@@ -13,7 +13,7 @@
 fmt.Println("Building scalable systems with a side of bad puns") 
 ```
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamnarkar47&show_icons=true&theme=dark)](https://shivamnarkar16.vercel.app/)
-![All Time Stas](https://github-readme-streak-stats.herokuapp.com/?user=shivamnarkar47&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shivamnarkar47&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnarkar47&theme=dark)](https://github.com/shivamnarkar47/github-readme-stats)
 
 
