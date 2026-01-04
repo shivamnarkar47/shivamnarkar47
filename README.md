@@ -12,10 +12,6 @@
 ```go
 fmt.Println("Building scalable systems with a side of bad puns") 
 ```
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamnarkar47&show_icons=true&theme=dark)](https://shivamnarkar16.vercel.app/)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shivamnarkar47&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamnarkar47&theme=dark)](https://github.com/shivamnarkar47/github-readme-stats)
-
 
 #### **🛠️ Tech Stack**  
 **Languages:** Go, Python, Java, TypeScript, SQL  
@@ -30,6 +26,7 @@ fmt.Println("Building scalable systems with a side of bad puns")
 - **[DineSmart](https://dinesmart-final.vercel.app)** – Restaurant management system with Supabase real-time DB  
 
 #### **💼 Experience**  
+- **Tech Intern** @ AIQ Space Ventures : Optimized internal workflows - 28% increase in development speed
 - **SDE Intern** @ Cybercraft: Built WebRTC meeting apps & Puppeteer automation bots  
 - **UI/UX Intern** @ Sonawane Tech: Designed crypto/fashion e-commerce interfaces  
 - **Hackathons:** Special mention at Technothon for "Most Assiduous Team" (InnovateX)  
