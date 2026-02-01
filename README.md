@@ -23,7 +23,7 @@ fmt.Println("Building scalable systems with a side of bad puns")
 - **[MiniURL](https://github.com/shivamnarkar47/MiniURL-shortener)** – High-performance URL shortener using Golang concurrency + React TS (<1ms Redis response)  
 - **[Chihuahua Investments](https://github.com/shivamnarkar47/CodeCrafters)** – AI-driven stock/crypto platform (Hackathon 1st Runner-Up)  
 - **[DineSmart](https://dinesmart-final.vercel.app)** – Restaurant management system with Supabase real-time DB  
-
+- **[GreenVested](https://green-vested.vercel.app/)** – An ESG Dashboard for companies 
 #### Experience  
 - **Tech Intern** @ AIQ Space Ventures : Optimized internal workflows - 28% increase in development speed
 - **SDE Intern** @ Cybercraft: Built WebRTC meeting apps & Puppeteer automation bots  
